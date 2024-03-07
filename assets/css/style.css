@@ -103,13 +103,7 @@
     transition: all 0.3s linear;
 }
 
-.color_me:hover {
-    border-image-source: linear-gradient(-180deg, #9003E5, #F93B95);
-    font-size: 24px;
-    padding: 10px 35px;
-    background-size: 400% 400%;
-    transition: all 0.3s linear;
-}
+
 
 @keyframes mymove {
     0% {
