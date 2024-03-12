@@ -377,9 +377,11 @@
     border-radius: 40px;
     background: var(--color-bgsecondary-);
 }
+
 .w_50 {
     width: 50%;
 }
+
 .r_more {
     background-color: var(--color-lightwh-);
     padding: 11px 34px;
@@ -730,50 +732,59 @@ h6 {
     .paddg {
         padding: 150px 200px 110px 170px;
     }
+
     .posi-absolute {
         position: absolute;
         top: -15%;
         right: -15%;
         z-index: -1;
     }
+
     .posi-absolute_2 {
         position: absolute;
         bottom: -20%;
         left: -15%;
         z-index: -1;
     }
+
     .posi-absolute_3 {
         position: absolute;
         top: -19%;
         left: -8%;
         z-index: -1;
     }
+
     .posi-absolute_4 {
         position: absolute;
         bottom: 0%;
         right: -15%;
     }
+
     .w_50 {
         width: 30%;
     }
+
     .paint8 {
         position: absolute;
         right: -7%;
         top: -14%;
         z-index: -1;
     }
+
     .paint10 {
         position: absolute;
         bottom: -37px;
         right: 1px;
         z-index: 0;
     }
+
     .effect2 {
         position: absolute;
         right: -21%;
         bottom: 75%;
         z-index: -1;
     }
+
     .effect3 {
         position: absolute;
         left: -7%;
@@ -927,37 +938,44 @@ h6 {
     .mt-180 {
         margin-top: 150px;
     }
+
     .posi-absolute {
         position: absolute;
         top: 5%;
         right: -28%;
         z-index: -1;
     }
+
     .posi-absolute_2 {
         position: absolute;
         bottom: 2%;
         left: -15%;
         z-index: -1;
     }
+
     .posi-absolute_4 {
         position: absolute;
         bottom: 30%;
         right: -21%;
     }
+
     .paint5 {
         position: absolute;
         top: 75%;
         z-index: 1;
         left: 75%;
     }
+
     .paint9 {
         position: absolute;
         left: -1%;
         bottom: -5%;
     }
+
     .mb_-25 {
         margin-bottom: 0%;
     }
+
     .effect1 {
         position: absolute;
         left: -1px;
@@ -1006,23 +1024,27 @@ h6 {
     .mt-180 {
         margin-top: 100px;
     }
+
     .posi-absolute {
         position: absolute;
         top: -14%;
         right: -32%;
         z-index: -1;
     }
+
     .posi-absolute_2 {
         position: absolute;
         bottom: -10%;
         left: -25%;
         z-index: -1;
     }
+
     .posi-absolute_4 {
         position: absolute;
         bottom: 85%;
         right: -41%;
     }
+
     .paint9 {
         position: absolute;
         left: -1%;
